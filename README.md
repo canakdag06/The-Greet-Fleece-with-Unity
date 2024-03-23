@@ -6,17 +6,17 @@ A Point&Click Advanture game I made following Jonathan Weinberger's official Uni
 Youtube link for the demo: https://www.youtube.com/watch?v=OXrr_zwAKtI
 
 What's in this project?:
-• Point & Click Controller
-• Cutscenes made with Cinemachine & Timeline
-• Dolly Track
-• Camera Follow System
-• Camera Fades
-• AI Behaviour
-• Singleton & Observer Design Patterns
-• Navigational Mesh
-• Lighting & Post Processing Effects
-• Menu System
-• Restart Menu
-• Loading Bar
-• Light Probes
-• Audio
+- Point & Click Controller
+- Cutscenes made with Cinemachine & Timeline
+- Dolly Track
+- Camera Follow System
+- Camera Fades
+- AI Behaviour
+- Singleton & Observer Design Patterns
+- Navigational Mesh
+- Lighting & Post Processing Effects
+- Menu System
+- Restart Menu
+- Loading Bar
+- Light Probes
+- Audio
